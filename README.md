@@ -79,7 +79,7 @@ To the best of my ability a 100% compliance with NN duties and responsibilities.
 Timely updates <24H as deemed by komodo team.  
 Reach at least 33% or better monthly NN notarization score.
 For risk mitigation I have the capability and resources to separate my physical servers to two operating 
-sites 100 kms from each other\
+sites 100 kms from each other.
 >
 > _Thank you for your support_.  
 > ありがとうございます。  
