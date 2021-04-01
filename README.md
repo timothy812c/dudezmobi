@@ -2,11 +2,11 @@
 
 # DudezMobi.vrsc NOTARY NODES ELECTION 2021 for AR REGION
 ## :heavy_minus_sign: SOLAR POWERED NOTARY NODE
-### :white_square_button: Voting Address: RQ7tJz8E12s1esbRvuSSFTduWnT4E4D15B
+### :heavy_minus_sign: Voting Address: RQ7tJz8E12s1esbRvuSSFTduWnT4E4D15B
 
-:white_square_button: **Main Pubkey:** 027ecd974ff2a27a37ee69956cd2e6bb31a608116206f3e31ef186823420182450<br>
-:white_square_button: **3rd Party Pubkey:** 033c121d3f8d450174674a73f3b7f140b2717a7d51ea19ee597e2e8e8f9d5ed87f<br>
-:white_square_button: **Discord contact:** dudezmobi#1945<br>
+### :heavy_minus_sign: **Main Pubkey:** 027ecd974ff2a27a37ee69956cd2e6bb31a608116206f3e31ef186823420182450<br>
+### :heavy_minus_sign: **3rd Party Pubkey:** 033c121d3f8d450174674a73f3b7f140b2717a7d51ea19ee597e2e8e8f9d5ed87f<br>
+### :heavy_minus_sign: **Discord contact:** dudezmobi#1945<br>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -45,7 +45,7 @@ I have participated in testing of atomic-dex and submitted more than 50 issues.
 I have a total capacity of **2400 watts** of solar power for 7 hours daily, thus **lowering
 my operational costs**. It is a **sustainable model** for a NN support infrastructure.
 
-#### :heavy_minus_sign: HARDWARE 
+#### HARDWARE 
 | CPU           | RAM           | Disk  |
 |------------- |---------------|-------|
 |Ryzen Threadripper 3970x|128 GB|2 TB SSD NVme RAID 0|
