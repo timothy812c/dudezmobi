@@ -49,7 +49,7 @@ my operational costs**. It is a **sustainable model** for a NN support infrastru
 | CPU           | RAM           | Disk  |
 |------------- |---------------|-------|
 |Ryzen Threadripper 3970x|128 GB|2 TB SSD NVme RAID 0|
-|Ryzen 5950x|128 GB memory|1TB GB SSD NVme RAID 0|
+|Ryzen 5950x|128 GB|1TB GB SSD NVme RAID 0|
 
 
 ## S4 PERFORMANCE
